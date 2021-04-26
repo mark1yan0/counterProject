@@ -3,15 +3,8 @@
 Progetto JavaScript Basics di Markiyan Kmit
 
 Table of Contents
-About The Project
 Built With
-Getting Started
-Prerequisites
-Installation
 Usage
-Roadmap
-Contributing
-License
 Contact
 Acknowledgements
 
