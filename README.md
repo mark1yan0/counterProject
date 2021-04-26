@@ -32,6 +32,6 @@ Basta cliccare sui tasti per cambiare il valore del contantore.</p>
  
 <h3 id="acknowledgements">Acknowledgements</h3>
 <ul>
-    <li><a href="https://fonts.google.com/">Google Fonts</a>per il font</li>
-    <li><a href="https://pages.github.com/">GitHub Pages</a>per l'hosting</li>
+    <li><a href="https://fonts.google.com/">Google Fonts</a> per il font</li>
+    <li><a href="https://pages.github.com/">GitHub Pages</a> per l'hosting</li>
 </ul>
