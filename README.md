@@ -13,7 +13,7 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
 </ol>
 
-<h4 id="built">About the Project</h4>
+<h4 id="about">About the Project</h4>
 <h3 id="built">Built With</h3>
 <p>Questo progetto è stato costruito sfruttando HTML, CSS ma suprattuto JavaScript Vanilla.</p>
 
