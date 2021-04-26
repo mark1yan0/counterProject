@@ -31,5 +31,7 @@ Basta cliccare sui tasti per cambiare il valore del contantore.</p>
 <p>Project Link: https://mark1yan0.github.io/counterProject/ </p>
  
 <h3 id="acknowledgements">Acknowledgements</h3>
-<p>Google Fonts per il font</p>
-<p>GitHub Pages per l'hosting</p>
+<ul>
+    <li><a href="https://fonts.google.com/">Google Fonts</a>per il font</li>
+    <li><a href="https://pages.github.com/">GitHub Pages</a>per l'hosting</li>
+</ul>
