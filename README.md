@@ -1,5 +1,8 @@
+
 <h1>Progetto JavaScript Basics di Markiyan Kmit</h1>
 <h2>counterProject</h2>
+
+![screenshot](https://user-images.githubusercontent.com/70650895/116120606-fee02980-a6bf-11eb-9c9e-9a9d69ca91b5.JPG)
 
 <h5>Table of Contents</h5>
 <ul>
@@ -8,6 +11,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
 </ul>
+
 
 <h3>Built With</h3>
 <p>Questo progetto è stato costruito sfruttando HTML, CSS ma suprattuto JavaScript Vanilla.</p>
