@@ -1,8 +1,6 @@
 <h1>Progetto JavaScript Basics di Markiyan Kmit</h1>
 <h2>counterProject</h2>
 
-<img src="./img/screenshot">
-
 <h5>Table of Contents</h5>
 <ul>
     <li><a href="#built">Built With</a></li>
@@ -23,10 +21,10 @@ Basta cliccare sui tasti per cambiare il valore del contantore.</p>
 <p>Il codice è il più efficiente che sono riuscito a scrivere; ho provato a sfruttare un Behaviour Pattern non ci sono riuscito.</p>
 
 <h3>Contact</h3>
-<p>Markiyan Kmit - </p> business.kmit@gmail.com
+<p>Markiyan Kmit - business.kmit@gmail.com </p>
 
-<p>Project Link:</p> https://mark1yan0.github.io/counterProject/
-
+<p>Project Link: https://mark1yan0.github.io/counterProject/ </p>
+ 
 <h3>Acknowledgements</h3>
 <p>Google Fonts per il font</p>
 <p>GitHub Pages per l'hosting</p>
