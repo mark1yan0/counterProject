@@ -1,8 +1,7 @@
-# counterProject
+#Progetto JavaScript Basics di Markiyan Kmit
+##counterProject
 
-Progetto JavaScript Basics di Markiyan Kmit
-
-Table of Contents
+######Table of Contents
 Built With
 Usage
 Contact
